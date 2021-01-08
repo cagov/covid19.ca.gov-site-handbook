@@ -11,9 +11,9 @@ eleventyNavigation:
 
 Good content provides Californians with the information and services they need.
 
-## Our voice
+## Voice
 
-| We are                  | We are not                                              |
+| Be                      | Do not be                                               |
 | ----------------------- |-------------------------------------------------------- |
 | A source of truth       | Expressing opinions                                     |
 | Information providers   | Service providers                                       |
@@ -25,8 +25,9 @@ Good content provides Californians with the information and services they need.
 | Empathetic              | Apathetic                                               |
 | Sensitive toward others | Pretending to save people or know everything about them |
 
-## Our style
-We write content that’s user-centered. It’s:
+## Core principles
+
+Write content that’s user-centered. It’s:
 * Clear
 * Concise
 * Accessible
