@@ -1,6 +1,6 @@
 ---
 title: Formatting content
-date: 2020-11-20
+date: Last Modified
 permalink: /content/formatting/index.html
 toc: truePerformance
 eleventyNavigation:
