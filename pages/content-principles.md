@@ -1,5 +1,5 @@
 ---
-title: Content Principles
+title: Content principles
 date: Last Modified
 permalink: /content/principles/index.html
 toc: truePerformance
