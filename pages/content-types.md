@@ -1,7 +1,7 @@
 ---
 title: Content types
 date: Last Modified
-permalink: /content/types/index.html
+permalink: /content/types.html
 toc: truePerformance
 eleventyNavigation:
   key: Types
