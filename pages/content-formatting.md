@@ -1,7 +1,7 @@
 ---
 title: Formatting content
 date: Last Modified
-permalink: /content/formatting/index.html
+permalink: /content/formatting.html
 toc: truePerformance
 eleventyNavigation:
   key: Formatting
