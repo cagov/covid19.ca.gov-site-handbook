@@ -4,13 +4,10 @@ date: Last Modified
 permalink: /design/principles.html
 toc: truePerformance
 eleventyNavigation:
-  key: Types
+  key: Principles
   order: 13
   parent: Design
 ---
-
-# Design principles
-
 The basis for our design is based on the proven work and best practices of teams like[18F Design Principles](https://methods.18f.gov/decide/design-principles/) and the [GOV.UK Government Design Principles](https://www.gov.uk/guidance/government-design-principles).
 
 Examples of our implementation and iteration of the above design principles can be seen on the [alpha.ca.gov](https://www.alpha.ca.gov ) and the [COVID19.ca.gov](https://covid19.ca.gov) website.
