@@ -1,4 +1,3 @@
-
 ---
 title: Design style guide
 date: Last Modified
@@ -9,6 +8,7 @@ eleventyNavigation:
   order: 15
   parent: Design
 ---
+
 The foundational layer of the design components are based on [Bootstrap v4](https://getbootstrap.com) as well as the latest version of the [CA state web template](https://beta.template.webstandards.ca.gov). Additionally several dynamic content components are built as portable [npm modules](https://www.npmjs.com/search?q=cagov). 
 
 ## Typography
