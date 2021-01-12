@@ -1,7 +1,7 @@
 ---
 title: 'Design' 
 date: Last Modified
-permalink: /getting-started/design/index.htm
+permalink: /design/
 toc: true
 eleventyNavigation:
   key: Design
