@@ -1,11 +1,11 @@
 ---
-title: Getting started
+title: Improving the California digital experience
 date: 2021-01-12
 permalink: /
 toc: true
 eleventyNavigation:
   key: Home
-  title: Creating excellent digital experiences
+  title: Home
   order: 0
 ---
 California's Office of Digital Innovation is dedicated to improving digital experiences for all Californians.
