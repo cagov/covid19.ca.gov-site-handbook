@@ -8,8 +8,30 @@ eleventyNavigation:
   order: 13
   parent: Design
 ---
-The basis for our design is based on the proven work and best practices of teams like[18F Design Principles](https://methods.18f.gov/decide/design-principles/) and the [GOV.UK Government Design Principles](https://www.gov.uk/guidance/government-design-principles).
+Design principles help teams and stakeholders to align on design vision and decision-making.
 
-Examples of our implementation and iteration of the above design principles can be seen on the [alpha.ca.gov](https://www.alpha.ca.gov ) and the [COVID19.ca.gov](https://covid19.ca.gov) website.
+They give us a shared understanding to help us prioritize our next steps.
 
-NOTE: Our design is in the process of being iterated on through various efforts and a cohesive design system doesn't yet exist. It is recommended that the COVID19 and Alpha websites are used as a design reference and implementation guide while the current state web template is the codebase. It is easy to get started with the state web template by leveraging the [content delivery network (CDN)](https://beta.template.webstandards.ca.gov/cdn.html) it is hosted on.
+For our design principles, we are once again, leveraging the proven work and best practices of teams like 18F and the UK Government Digital Services. As our starting point, we’re adopting and iterating on the design principles created by GDS.
+
+##The Alpha.CA.gov design principles include:##
+*Start with user needs
+*Do less
+*Design with data, research, intuition, and experimentation (We added “research, intuition and experimentation” for a few reasons. Data doesn’t always tell the whole story. We also need user research, experimentation and, yes, our own intuition as users and Californians to inform design.)
+*Do the hard work to make it simple and elegant
+*Iterate — then iterate again
+*Make it accessible and inclusive (UK.GOV went with “This is for everyone.” We adapted it to make it more explicit and reflect California.)
+*Understand context
+*Build digital services, not websites
+*Be consistent but not uniform
+*Make things open: It makes things better
+*Prioritize security, respect privacy (Something new we added to the list. A recognition of how incredibly important both security and privacy are.)
+*Optimize performance (Another new one. Slow load times cost people money. That’s an accessibility and equity issue.)
+*These principles will inform our product design. And we’ll continue to iterate and refine them as we learn by doing.
+
+##Resources##
+[GOV.UK Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
+
+[18F Design Principles](https://methods.18f.gov/decide/design-principles/)
+
+
