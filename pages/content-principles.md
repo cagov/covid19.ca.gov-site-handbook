@@ -1,7 +1,7 @@
 ---
 title: Content principles
 date: Last Modified
-permalink: /content/principles/index.html
+permalink: /content/principles.html
 toc: truePerformance
 eleventyNavigation:
   key: Principles
