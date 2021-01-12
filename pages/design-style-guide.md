@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /design/style-guide.html
 toc: truePerformance
 eleventyNavigation:
-  key: Principles
+  key: Style guide
   order: 15
   parent: Design
 ---
