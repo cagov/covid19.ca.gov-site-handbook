@@ -1,7 +1,7 @@
 ---
 title: 'Content' 
 date: 2021-01-12
-permalink: /getting-started/content/index.htm
+permalink: /content/
 toc: true
 eleventyNavigation:
   key: Content
