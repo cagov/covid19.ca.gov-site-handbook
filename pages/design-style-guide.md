@@ -36,7 +36,7 @@ The state web template includes an [icon font](https://beta.template.webstandard
 ## Branding 
 Branding elements are used lightly on the homepage. Homepage begins with a hero banner that has important information. Imagery in the hero banner is optional and should be blended with the primary color. 
 
-* **Logos:** [California for all](https://gmmb.app.box.com/s/kv1pzeg52sznf4vyml6j31pd4o30tlfc)
+* **Logos:** [California for all](https://govca.app.box.com/s/8wsb5ytp1sv2ivh5o0seqzz82sbt1oe5)
 * **Images:** [Hero banner/Backgrounds](https://govca.app.box.com/s/1vk3x2d20fjplsciqonrrohdrlr8vzs3)
 
 ## Page Layout
