@@ -1,6 +1,6 @@
 ---
 title: 'Design' 
-date: Last Modified
+date: 2021-01-15
 permalink: /design/
 toc: true
 eleventyNavigation:
@@ -11,11 +11,11 @@ eleventyNavigation:
 
 Good design provides Californians with the information and services they need. We create good design through:
 
-* [Design principles](https://cagov.github.io/covid19.ca.gov-site-handbook/design/principles.html)
-* [Style guide](https://cagov.github.io/covid19.ca.gov-site-handbook/design/style-guide.html)
+* [Design principles](../design/principles.html)
+* [Style guide](../design/style-guide.html)
 
 The basis for our design is based on the proven work and best practices of teams like [18F Design Principles](https://methods.18f.gov/decide/design-principles/) and the [GOV.UK Government Design Principles](https://www.gov.uk/guidance/government-design-principles).
 
-Examples of our implementation and iteration of the above design principles can be seen on the [alpha.ca.gov](https://www.alpha.ca.gov ) and the [COVID19.ca.gov](https://covid19.ca.gov) website.
+Examples of our implementation and iteration of the above design principles can be seen on the [alpha.ca.gov](https://www.alpha.ca.gov) and the [COVID19.ca.gov](https://covid19.ca.gov) website.
 
-NOTE: Our design is in the process of being iterated on through various efforts and a cohesive design system doesn't yet exist. It is recommended that the COVID19 and Alpha websites are used as a design reference and implementation guide while the current state web template is the codebase. It is easy to get started with the state web template by leveraging the [content delivery network (CDN)](https://beta.template.webstandards.ca.gov/cdn.html) it is hosted on.
+**Note**: We're iterating on our design through various efforts and a cohesive design system does not yet exist. It's recommended that the COVID-19 and Alpha websites are used as a design reference and implementation guide while the current state web template is the codebase. It's easy to get started with the state web template by leveraging the [content delivery network (CDN)](https://beta.template.webstandards.ca.gov/cdn.html) it's hosted on.
