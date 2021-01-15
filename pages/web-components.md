@@ -1,6 +1,6 @@
 ---
 title: Widgets as web components
-date: 2021-1-15
+date: 2021-01-15
 permalink: /tech/web-components/
 toc: true
 eleventyNavigation:

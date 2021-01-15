@@ -1,6 +1,6 @@
 ---
 title: Performance and Accessibility
-date: 2021-1-15
+date: 2021-01-15
 permalink: /tech/performance/index.html
 toc: true
 eleventyNavigation:
