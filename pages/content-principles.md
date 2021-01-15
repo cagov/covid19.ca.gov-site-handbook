@@ -1,6 +1,6 @@
 ---
 title: Content principles
-date: Last Modified
+date: 2021-01-15
 permalink: /content/principles.html
 toc: truePerformance
 eleventyNavigation:
