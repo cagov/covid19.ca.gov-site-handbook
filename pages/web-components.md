@@ -1,10 +1,10 @@
 ---
-title: UI widgets as web components
+title: Widgets as web components
 date: 2020-11-20
-permalink: /tech/webcomponents/index.html
+permalink: /tech/web-components/
 toc: true
 eleventyNavigation:
-  key: webcomponents
+  key: Widgets as web components
   order: 48 
   parent: Tech
 ---
@@ -21,7 +21,11 @@ The main benefits of using web components are:
 
 The most important benefit of web components  is the ability to define custom elements. 
 
-One example is a new HTML tag like ```<cagov-accordion />```. These tags are associated with new functionalities we write in new classes.
+One example is a new HTML tag like:
+
+```<cagov-accordion />```
+
+These tags are associated with new functionalities we write in new classes.
 
 These extend the HTMLElement class so our tags can take advantage of all the standard browser element features. For example, the new tag is an element in the DOM. This lets us assign complex objects as properties and access these objects with this.objectReference. Custom elements come with their own set of [instantiation and change events](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements#using_the_lifecycle_callbacks).
 
