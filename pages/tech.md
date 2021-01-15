@@ -9,7 +9,11 @@ eleventyNavigation:
   order: 20 
 ---
 
-The following sections outline some technical details of what worked and what didn't on the covid19.ca.gov site.
+The technology that supports State websites is critical to delivering accessible services to all Californians. We deliver technologically great services through:
 
-* [Performance](/tech/performance/)
+* [Making user interface widgets as web components](../tech/webcomponents/)
+* [Testing Performance and accessibility](../tech/performance/)
+* [Static site pregeneration](../tech/ssg/)
+* [Serverless APIs](../tech/serverless/)
+* Fast Dashboards
 
