@@ -1,10 +1,10 @@
 ---
 title: Static site pregeneration
-date: 2020-11-20
-permalink: /tech/ssg/index.html
+date: 2021-1-15
+permalink: /tech/ssg/
 toc: true
 eleventyNavigation:
-  key: ssg
+  key: Static site pregeneration
   order: 48 
   parent: Tech
 ---
