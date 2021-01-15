@@ -1,6 +1,6 @@
 ---
 title: 'Content' 
-date: 2021-01-12
+date: 2021-01-15
 permalink: /content/
 toc: true
 eleventyNavigation:
@@ -11,6 +11,6 @@ eleventyNavigation:
 
 Good content gives people the information they need in a way they can understand. We create content that serves Californians using these resources:
 
-* [Our content principles](https://cagov.github.io/covid19.ca.gov-site-handbook/content/principles.html)
-* [How we format content](https://cagov.github.io/covid19.ca.gov-site-handbook/content/formatting.html)
-* [Using the right type of content for the situation](https://cagov.github.io/covid19.ca.gov-site-handbook/content/types.html)
+* [Our content principles](../content/principles.html)
+* [How we format content](../content/formatting.html)
+* [Using the right type of content for the situation](../content/types.html)
