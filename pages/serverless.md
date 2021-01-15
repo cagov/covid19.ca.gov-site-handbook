@@ -1,10 +1,10 @@
 ---
 title: Serverless APIs
-date: 2020-11-20
-permalink: /tech/serverless/index.html
+date: 2021-1-15
+permalink: /tech/serverless/
 toc: true
 eleventyNavigation:
-  key: serverless
+  key: Serverless APIs
   order: 48 
   parent: Tech
 ---
