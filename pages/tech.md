@@ -15,4 +15,4 @@ The technology that supports State websites is critical to delivering accessible
 * [Testing Performance and accessibility](../tech/performance/)
 * [Static site pregeneration](../tech/ssg/)
 * [Serverless APIs](../tech/serverless/)
-* Fast Dashboards
+* [Fully accessible dashboards](../tech/fast-dashboards/)
