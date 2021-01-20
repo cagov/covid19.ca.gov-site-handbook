@@ -5,7 +5,7 @@ permalink: /tech/ssg/
 toc: true
 eleventyNavigation:
   key: Static site pregeneration
-  order: 48 
+  order: 24
   parent: Tech
 ---
 
