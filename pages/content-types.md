@@ -26,6 +26,8 @@ _Ask the contractor to share the name of their insurance carrier and copies of b
 
 Be consistent with whether your bullet points are sentences or not.
 
+Always capitalize the first word of each bullet point.
+
 ## Numbered lists
 Use numbered lists when a user needs to do tasks in a certain order, like a process. They’re especially helpful if the steps happen across different agencies. 
 * Start each task with a verb.
@@ -87,9 +89,10 @@ Alerts highlight important or time-sensitive information like deadlines.
 Put important information in an info box to help readers find it quickly while skimming. If the content is urgent, use an alert instead.
  
 ## Page indexes
-A way to give users an outline of a long page is to add a page index at the top.
+A way to help users find information easily on a long page is to add a page index at the top.
 
 * Start with a brief sentence that states the most important takeaway on the page.
-* Follow with text that introduces the index, like "On this page:"
+* Follow with text that introduces the index, like "On this page you will find:"
 * Make a bulleted, bolded list of the h2 headers on the page. Do not link subheaders. If something is important enough to appear in the page index, elevate it to an h2 header.
 * Make each h2 header an anchor link, and link each item in the index to its corresponding header.
+* Keep the page index to 6 items or less. Fit smaller ideas under larger, umbrella ideas.
