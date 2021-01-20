@@ -5,7 +5,7 @@ permalink: /content/types.html
 toc: truePerformance
 eleventyNavigation:
   key: Types
-  order: 13
+  order: 18
   parent: Content
 ---
 
