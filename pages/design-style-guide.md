@@ -1,11 +1,11 @@
 ---
 title: Design style guide
-date: Last Modified
+date: 2020-01-20
 permalink: /design/style-guide.html
 toc: truePerformance
 eleventyNavigation:
   key: Style guide
-  order: 15
+  order: 14
   parent: Design
 ---
 
