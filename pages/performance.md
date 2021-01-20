@@ -5,7 +5,7 @@ permalink: /tech/performance/index.html
 toc: true
 eleventyNavigation:
   key: Performance and Accessibility
-  order: 48 
+  order: 23
   parent: Tech
 ---
 
