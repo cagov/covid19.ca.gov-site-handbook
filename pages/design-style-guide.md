@@ -5,7 +5,7 @@ permalink: /design/style-guide.html
 toc: truePerformance
 eleventyNavigation:
   key: Style guide
-  order: 14
+  order: 8
   parent: Design
 ---
 
