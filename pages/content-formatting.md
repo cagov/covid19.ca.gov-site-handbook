@@ -5,7 +5,7 @@ permalink: /content/formatting.html
 toc: truePerformance
 eleventyNavigation:
   key: Formatting
-  order: 12
+  order: 17
   parent: Content
 ---
 
