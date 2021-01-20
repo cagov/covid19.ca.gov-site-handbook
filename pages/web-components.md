@@ -5,7 +5,7 @@ permalink: /tech/web-components/
 toc: true
 eleventyNavigation:
   key: Widgets as web components
-  order: 48 
+  order: 22
   parent: Tech
 ---
 
