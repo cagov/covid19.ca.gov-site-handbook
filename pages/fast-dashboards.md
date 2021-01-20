@@ -5,7 +5,7 @@ permalink: /tech/fast-dashboards/
 toc: true
 eleventyNavigation:
   key: Fully accessible dashboards 
-  order: 48 
+  order: 26
   parent: Tech
 ---
 
