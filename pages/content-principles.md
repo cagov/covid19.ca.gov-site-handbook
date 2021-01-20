@@ -72,7 +72,7 @@ Use short sentences and paragraphs. They’re easier to read and more accessible
 * Be direct and confident.
 
 ## Organize content by importance
-Put the most important content first on a page. This is often the content that applies to the most people. Content that applies to the least people (like specific groups) last.
+Put the most important content first on a page. This is often the content that applies to the most people. Content that applies to the least people (like specific groups) goes last.
 
 ## Keep it conversational
 Write how you speak. Read your writing out loud to hear how it sounds.
