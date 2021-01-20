@@ -1,10 +1,10 @@
 ---
-title: Performance and Accessibility
+title: Performance and accessibility
 date: 2021-01-15
 permalink: /tech/performance/index.html
 toc: true
 eleventyNavigation:
-  key: Performance and Accessibility
+  key: Performance and accessibility
   order: 23
   parent: Tech
 ---
