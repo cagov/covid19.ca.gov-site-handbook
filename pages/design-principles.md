@@ -5,7 +5,7 @@ permalink: /design/principles.html
 toc: truePerformance
 eleventyNavigation:
   key: Principles
-  order: 16
+  order: 7
   parent: Design
 ---
 Design principles help teams and stakeholders to align on design vision and decision-making.
