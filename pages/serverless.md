@@ -5,7 +5,7 @@ permalink: /tech/serverless/
 toc: true
 eleventyNavigation:
   key: Serverless APIs
-  order: 48 
+  order: 25
   parent: Tech
 ---
 
