@@ -17,6 +17,7 @@ Clear headings make pages easier to scan and understand.
 * Use sentence case. Capitalize the first word and proper nouns. It’s friendlier and helps readers recognize proper nouns.
 * Make the name of your page an h1 header. Only use one h1 header per page.
 * Use header levels in ascending numerical order. Do not skip steps. It’s OK to repeat header levels.
+* Exception: Questions in accordion format are always in h4 format, no matter what size header has gone before it.
 * Always have at least one line of text between headers.
 * Do not use header tags for full sentences or non-header body text.
 
