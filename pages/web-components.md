@@ -31,4 +31,4 @@ These extend the HTMLElement class so our tags can take advantage of all the sta
 
 There are several secondary benefits too. For example, it’s easy to delete them because each component is isolated in its own class with a known API. This makes it safe to remove them when they’re no longer needed.
 
-We’ve documented the [components we’ve created](https://wonderful-plant-07a82e81e.azurestaticapps.net/?path=/story/welcome--page*) in our interactive component library
+We’ve documented the [components we’ve created](https://wonderful-plant-07a82e81e.azurestaticapps.net/?path=/story/welcome--pagegb) in our interactive component library
