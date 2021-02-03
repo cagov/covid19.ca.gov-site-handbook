@@ -5,7 +5,7 @@ permalink: /content/principles.html
 toc: truePerformance
 eleventyNavigation:
   key: Principles
-  order: 14
+  order: 11
   parent: Content
 ---
 
