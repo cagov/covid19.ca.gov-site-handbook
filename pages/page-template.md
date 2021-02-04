@@ -15,9 +15,9 @@ We discovered through user testing that a common page template creates consisten
 
 Start with a brief sentence that states the most important takeaway on the page. This sets their expectations about what they'll find on this page and if it's valuable to them. There could be a second sentence if absolutel needed, but that's the limit. Making this sentence bigger emphasizes its importance.
 
-Here's an example:
+Here's an example from the covid19.ca.gov [Travel](https://covid19.ca.gov/travel/) page:
 
-> Example
+> Travel increases your risk of getting COVID-19 and infecting others. For this reason, the California Department of Public Health asks that you limit your travel during the pandemic.
 
 ## Page index
 
@@ -28,8 +28,8 @@ A way to help users find information easily on a long page is to add a page inde
 * Make each h2 header an anchor link, and link each item in the index to its corresponding header.
 * Keep the page index to 6 items or less. Fit smaller ideas under larger, umbrella ideas.
 
-## How it comes together
+## The template in action
 
-The covid19.ca.gov [Travel](https://covid19.ca.gov/travel/) page is a great example of this template in action.
+The covid19.ca.gov [Travel](https://covid19.ca.gov/travel/) page is a great example of the template in action.
 
-[Page index example](/static/img/travel-page-index.jpg)
+![Page index example](/static/img/travel-page-index.jpg)
