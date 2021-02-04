@@ -30,4 +30,6 @@ A way to help users find information easily on a long page is to add a page inde
 
 ## How it comes together
 
-The covid19.ca.gov [placeholder] page uses these principles.
+The covid19.ca.gov [Travel](https://covid19.ca.gov/travel/) page is a great example of this template in action.
+
+[Page index example](/static/img/travel-page-index.jpg)
