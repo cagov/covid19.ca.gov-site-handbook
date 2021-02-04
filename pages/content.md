@@ -14,3 +14,4 @@ Good content gives people the information they need in a way they can understand
 * [Our content principles](../content/principles.html)
 * [How we format content](../content/formatting.html)
 * [Using the right type of content for the situation](../content/types.html)
+* [Our page template](../content/types/page-template.html)
