@@ -1,6 +1,6 @@
 ---
 title: 'Content' 
-date: 2021-01-15
+date: 2021-02-04
 permalink: /content/
 toc: true
 eleventyNavigation:
