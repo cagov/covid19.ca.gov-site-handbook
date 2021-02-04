@@ -32,4 +32,4 @@ A way to help users find information easily on a long page is to add a page inde
 
 The covid19.ca.gov [Travel](https://covid19.ca.gov/travel/) page is a great example of the template in action.
 
-![Page index example](/static/img/travel-page-index.jpg)
+![Page index example](https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/travel-page-index.jpg)
