@@ -32,6 +32,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget("./_tmp/style.css");
 
   eleventyConfig.addPassthroughCopy({ "./_tmp/style.css": "./style.css" });
+  eleventyConfig.addPassthroughCopy({ "./CNAME": "./CNAME" });
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
