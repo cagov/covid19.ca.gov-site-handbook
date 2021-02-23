@@ -59,6 +59,8 @@ Do not underline content. Web browsers highlight links automatically. Underlinin
 Use a button with a form or to highlight something the user wants to do. Links are embedded in text instead of standing alone.
 
 * Link to webpages instead of PDFs as much as possible. Webpages are more accessible across devices, more easily searched, and less likely to break.
+  * If you must link to a document, make it a PDF if possible. Word documents, Excel sheets, and PowerPoint presentations require software to view them that people may not have.
+  * Indicate if the link is going to a file by providing its extension (like PDF, DOC, or PPT) so people can choose if they want to download it.
 * Make the link title match the title of the destination page as much as possible. This helps people know they arrived in the right place.
 * When creating a button, be short, descriptive, and distinctive.
 * Start with an active verb like **Apply**, **Submit**, or **Search**. This keeps the focus on the user’s needs.
