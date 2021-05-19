@@ -39,10 +39,19 @@ Use numbered lists when a user needs to do tasks in a certain order, like a proc
 
 An example of a numbered list is [Hire a licensed contractor for home improvements](https://www.alpha.ca.gov/hire-licensed-contractor-home-improvements/).
 
-## Questions and answers
-Question and answer format is a great way to address edge cases. Do not use questions and answers to communicate info everyone needs to know.
+## Accordions
+One way to make pages simpler and shorter for most people is to put some content in an expandable section we call an accordion. When coming to a page, readers see some title text with an icon that lets them know they can select it to see more content.
 
-When creating a question and answer section, just call it _Questions and answers_. Don’t add any information like _Questions and answers about financial help_. If questions and answers cluster around certain topics, use subheaders to organize them.
+Accordions are used for content that only some users need to see. A good rule of thumb is that if the content applies to less than 50% of the page’s expected visitors, it’s OK to put it in an accordion.
+
+Do not use accordions just to make a page shorter. If everyone should see the content, it belongs in the main body of the page. Asking people to open an accordion to get info they need risks them missing it. They also have to take an action (clicking with their mouse or tapping their phone), which is extra effort.
+
+Keep content in accordions short. If you have more than a few paragraphs to communicate, the content is better served being in the main body.
+
+### Questions and answers
+The question and answer format is a great way to address edge cases. It’s a type of accordion.
+
+When creating a question and answer section, just call it _Questions and answers_. Do not add any information like _Questions and answers about financial help_. If questions and answers cluster around certain topics, use subheaders to organize them.
 
 ## Guides
 A guide is a comprehensive summary of complex information. It usually spans multiple pages. Side navigation lets users move between pages.
