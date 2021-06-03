@@ -16,6 +16,8 @@ Clear headings make pages easier to scan and understand.
 
 * Use sentence case. Capitalize the first word and proper nouns. It’s friendlier and helps readers recognize proper nouns.
 * Make the name of your page an h1 header. Only use one h1 header per page.
+  * A good h1 tells people what the page is about and what they’ll find on it. For example, _Apply for unemployment insurance_.
+  * Make the h1 concise. For example, _Prepare for a wildfire_ instead of _Steps to prepare for a wildfire_.
 * Use header levels in ascending numerical order. Do not skip steps. It’s OK to repeat header levels.
 * Exception: Questions in accordion format are always in h4 format, no matter what size header has gone before it.
 * Always have at least one line of text between headers.
@@ -43,12 +45,13 @@ Make the title the page heading followed by a hyphen and the site name. This giv
 Use the h1 of the page to create your URL. This helps search engines find the page.
 
 Replace spaces in the title with hyphens so search engines can read them. Delete the conjunctions, prepositions, and articles as long as the URL still keeps the same meaning.
-* A page titled _Hire a licensed contractor for home improvements_ would become _/hire-licensed-contractor-home-improvements_.
-* Don’t make _Growing up with diabetes_ into _/growing-diabetes_. This has a different meaning.
+* A page titled _Request a birth certificate_ would become _/request-birth-certificate_.
+* Do not make _Prepare for a wildfire_ into _/prepare-wildfire_. This has a different meaning.
+* If your URL feels too long, consider shortening the page’s h1. Make sure both give enough detail so people know what the page is about.
 
-Use the site map to build the URL. If the licensed contractor page lives under a page called _Services_, the URL would be: _alpha.ca.gov/services/hire-licensed-contractor-home-improvements_.
+Use the site map to build the URL. If the birth certificate page lives under a page called _Services_, the URL would be: _alpha.ca.gov/services/request-birth-certificate_.
 
-Any time the site name is spelled out in content, make it a hyperlink to the homepage.
+Any time a site name is spelled out in content, make it a hyperlink to the homepage.
 
 ## Bold, italics, underlining
 Make important information or keywords users search for bold. We do not use italics for emphasis.
