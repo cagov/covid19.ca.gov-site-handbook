@@ -11,20 +11,6 @@ eleventyNavigation:
 
 Well-formatted content is easy to read and accessible.
 
-## Headings
-Clear headings make pages easier to scan and understand.
-
-* Use sentence case. Capitalize the first word and proper nouns. It’s friendlier and helps readers recognize proper nouns.
-* Make the name of your page an h1 header. Only use one h1 header per page.
-  * A good h1 tells people what the page is about and what they’ll find on it. For example, _Apply for unemployment insurance_.
-  * Make the h1 concise. For example, _Prepare for a wildfire_ instead of _Steps to prepare for a wildfire_.
-* Use header levels in ascending numerical order. Do not skip steps. It’s OK to repeat header levels.
-* Exception: Questions in accordion format are always in h4 format, no matter what size header has gone before it.
-* Always have at least one line of text between headers.
-* Do not use header tags for full sentences or non-header body text.
-
-Check your heading structure in Google Docs. Select **View** and **Show Document Outline** to confirm they nest appropriately.
-
 ## Lead class text
 Lead class text makes text larger. Use it to explain the service or topic at the top of the page, underneath the h1. Only use one paragraph (one or two sentences max) of lead class text per page. Use this code to create lead class text:
 
