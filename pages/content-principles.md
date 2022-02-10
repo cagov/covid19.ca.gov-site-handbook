@@ -14,4 +14,4 @@ Our core goal is to write content that’s user-centered. It’s:
 * Concise
 * Accessible
 
-Learn about the [California Office of Digital Innovation's content principles](https://docs.google.com/document/d/1orQyak_oQ2dSrDBYCRjauHTIQE51QGE_Cn4TssYrNX0/edit?usp=sharing).
+Learn about the [California Design System content principles](https://designsystem.webstandards.ca.gov/style/content/).
