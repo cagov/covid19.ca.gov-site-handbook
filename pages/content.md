@@ -9,9 +9,4 @@ eleventyNavigation:
   order: 10
 ---
 
-Good content gives people the information they need in a way they can understand. We create content that serves Californians using these resources:
-
-* [Our content principles](../content/principles.html)
-* [How we format content](../content/formatting.html)
-* [Using the right type of content for the situation](../content/types.html)
-* [Our page template](../content/types/page-template.html)
+Good content gives people the information they need in a way they can understand. Find [our recommendations for creating content](https://designsystem.webstandards.ca.gov/style/content/) on the California Design System site.
